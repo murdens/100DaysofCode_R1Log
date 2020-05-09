@@ -6,6 +6,8 @@ Log to document my first 100 days of code challenge.
 It's fair to say much of what I've achieved in this 100 days has only happened by committing to the challenge and putting the work in, as much as I could between work and child commitments. The #100DaysofCode Twitter community has been a great support and has really driven me to get through some of the brick walls I hit.  
 I may no longer be documenting my learning path on Twitter for the time being but do plan to continue learning mainly focused on Java and android and will be cheering everyone else on.
 
+<img src="https://github.com/murdens/100DaysofCode_R1Log/blob/master/GitHubCapture.PNG" width="700" height="600" /> 
+
 # Log
 
 🏁 1️⃣ of #100DaysOfCode @TheOdinProject
