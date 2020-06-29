@@ -433,6 +433,7 @@ Feels: Got a bit confused over indirect addressing, lo, hi byte. Brain cannot ta
 5️⃣4️⃣  #100Daysofcode
 
 What: Finished Assembly on Atari 2600 course, got a certificate 🎉 BUT the basic game needs a little more.
+<img src="https://github.com/murdens/100DaysofCode_R1Log/blob/master/Assembly_Language_Atari2600_Certificate.pdf" width="500" height="300" /> 
 
 ☆ score & timer display in hex want base10.
 
